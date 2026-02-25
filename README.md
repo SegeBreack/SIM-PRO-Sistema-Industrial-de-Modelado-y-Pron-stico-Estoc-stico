@@ -1,0 +1,2 @@
+# SIM-PRO-Sistema-Industrial-de-Modelado-y-Pron-stico-Estoc-stico
+SIM-PRO es una herramienta de ingeniería de software diseñada para la validación de procesos estocásticos mediante el algoritmo de Generador Congruencial Lineal (LCG) y la prueba de bondad de ajuste Ji-Cuadrada ($\chi^2$).   Este proyecto fue desarrollado bajo los lineamientos del estándar *MoProSoft* para garantizar la calidad de uso
